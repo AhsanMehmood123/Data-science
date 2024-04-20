@@ -1,0 +1,5 @@
+numpy array methods and attributes
+
+https://numpy.org/doc/stable/reference/generated/numpy.array.html
+
+https://numpy.org/doc/stable/user/basics.creation.html
